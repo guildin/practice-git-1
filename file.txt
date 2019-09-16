@@ -1,5 +1,7 @@
 My first line in project
 <<<<<<< HEAD
 Paris is the capital of France
+11
+22
 =======
 >>>>>>> parent of c7b5257... More than one Capital added
